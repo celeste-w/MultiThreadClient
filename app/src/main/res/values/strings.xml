@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">C/S聊天室功能</string>
+    <string name="conent_to_send">发送的消息:</string>
+    <string name="main_send">发送</string>
+    <string name="main_receive_title">服务器返回的消息</string>
+    <string name="autofill">请输入要发送的消息</string>
+    <string name="main_connect">连接服务器</string>
+
+
+</resources>
